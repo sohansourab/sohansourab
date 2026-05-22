@@ -14,143 +14,122 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Quick Bio
 
-Backend engineer with a focus on **production-ready APIs**, **LLM-powered pipelines**, and **AI systems** that do the heavy lifting silently. I gravitate toward modular architectures, local-first AI, and tools that solve real problems cleanly.
-
-Currently pursuing B.Tech in CS (AI & ML) at **GITAM University, Hyderabad** — graduating May 2027.
-
-> *I care about what happens under the hood — the services, the pipelines, the data flows.*
+> ⚙️ **Backend Engineer & AI/ML Builder** focused on modular architectures, local-first LLMs, and production-ready APIs. Currently pursuing my B.Tech in CS (AI & ML) at **GITAM University, Hyderabad** (Class of 2027). *I care about what happens under the hood — the services, pipelines, and data flows.*
 
 ---
 
-### 🔧 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&height=28" height="28" />  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white&height=28" height="28" />  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white&height=28" height="28" />  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white&height=28" height="28" />  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&height=28" height="28" />  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&height=28" height="28" />  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&height=28" height="28" />  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&height=28" height="28" />  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white&height=28" height="28" />  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white&height=28" height="28" />  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white&height=28" height="28" />  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white&height=28" height="28" />  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white&height=28" height="28" />  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black&height=28" height="28" />  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&height=28" height="28" />  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white&height=28" height="28" />  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white&height=28" height="28" />
-</p>
-
----
-
-### 🚀 Projects
-
-<details open>
-<summary><b>📄 RepoReport — AI-Powered B.Tech Report Generator</b></summary>
-<br />
-
-> *Upload a GitHub repo ZIP → structured B.Tech project report, auto-generated in seconds.*
-
-**What's under the hood:**
-- FastAPI backend with **modular service architecture** — ZIP extraction, file filtering, per-section AI prompt engineering each in isolated services
-- Interchangeable LLM backends: **Ollama/Mistral**, **DeepSeek**, **Anthropic Claude** — swap without touching core logic
-- Fully **local mode**, zero data egress, one-click PDF export via jsPDF + html2canvas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-
-🔗 [View Repository →](https://github.com/sohansourab/repo-report-generator)
-
-</details>
-
----
-
-<details open>
-<summary><b>🛡️ Fraud Detection System — Government Scheme Auditing</b></summary>
-<br />
-
-> *Hybrid rule-based + ML anomaly detection pipeline with automated PDF legal notice generation.*
-
-**What's under the hood:**
-- **16 custom auditing rules** + `IsolationForest` (Scikit-learn) for unsupervised fraud flagging on beneficiary datasets
-- Modular **Pandas validation pipeline** for eligibility checks — each check composable and independently testable
-- Auto-generates **JSON audit reports** and **PDF legal notices** via FPDF2; realistic synthetic data via Faker
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-🔗 [View Repository →](https://github.com/sohansourab/fraud-detection-hybrid)
-
-</details>
-
----
-
-<details open>
-<summary><b>🤟 ISL-Interpreter — Indian Sign Language Recognition</b></summary>
-<br />
-
-> *Real-time gesture-to-text translation using CNNs for accessible communication.*
-
-**What's under the hood:**
-- CNN classifier built with **TensorFlow/Keras** for Indian Sign Language gesture recognition
-- **OpenCV preprocessing pipeline** for live video frame capture, normalization, and feature extraction
-- High accuracy on gesture recognition benchmarks; real-time inference from webcam feed
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-🔗 [View Repository →](https://github.com/sohansourab/ISL-Interpreter)
-
-</details>
-
----
+### 🔧 Interactive Tech Stack
 
 <details>
-<summary><b>🌌 Galaxy Analyzer &nbsp;|&nbsp; 🎌 Anime Recommendation Engine</b></summary>
+<summary><b>💻 Backend & Languages</b></summary>
+<br />
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&height=28" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white&height=28" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white&height=28" />
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white&height=28" />
+</p>
+</details>
+
+<details>
+<summary><b>🧠 AI, ML & GenAI</b></summary>
+<br />
+<p align="left">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&height=28" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&height=28" />
+  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&height=28" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white&height=28" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white&height=28" />
+  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white&height=28" />
+</p>
+</details>
+
+<details>
+<summary><b>🛠️ Data, Tools & OS</b></summary>
+<br />
+<p align="left">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&height=28" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white&height=28" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white&height=28" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black&height=28" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&height=28" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white&height=28" />
+</p>
+</details>
+
+---
+
+### 🚀 Featured Systems
+
+<details>
+<summary><b>📄 RepoReport</b> — AI-Powered B.Tech Report Generator</summary>
+
+> 🚀 *Upload a GitHub repo ZIP → structured project report, auto-generated in seconds.*
+
+* **Pipeline:** FastAPI Extraction ⚡ Interchangeable Local LLMs (Ollama/Mistral) ⚡ React/jsPDF Client Engine
+* **Status:** 🕒 *Deployment pending* | **Domain:** AI Developer Tooling
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" /> &nbsp; 🔗 **[View Repository →](https://github.com/sohansourab/repo-report-generator)**
+</details>
+
+<details>
+<summary><b>🛡️ Fraud Detection Engine</b> — Govt. Scheme Auditing</summary>
+
+> ⚖️ *Hybrid rule-based + ML anomaly detection pipeline with automated PDF legal notice generation.*
+
+* **Pipeline:** Pandas Eligibility Pipeline ⚡ 16 Rules + `IsolationForest` ML ⚡ FPDF2 Notice Synthesizer
+* **Status:** 🕒 *Deployment pending* | **Domain:** FinTech Risk & Auditing
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> &nbsp; 🔗 **[View Repository →](https://github.com/sohansourab/fraud-detection-hybrid)**
+</details>
+
+<details>
+<summary><b>🤟 ISL-Interpreter</b> — Indian Sign Language Recognition</summary>
+
+> 🤝 *Real-time gesture-to-text translation using CNNs for accessible communication.*
+
+* **Pipeline:** OpenCV Webcam Normalization ⚡ TensorFlow/Keras CNN Feature Extraction ⚡ Live Text Output Buffer
+* **Status:** 🕒 *Deployment pending* | **Domain:** Computer Vision Assistive Tech
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> &nbsp; 🔗 **[View Repository →](https://github.com/sohansourab/ISL-Interpreter)**
+</details>
+
+<details>
+<summary><b>🌌 Mini AI Projects</b> — Computer Vision & RecSys</summary>
 <br />
 
-**Galaxy Analyzer** — Upload a galaxy image → CNN classifies its morphological shape using computer vision.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-&nbsp; 🔗 [Galaxy_analyzer](https://github.com/sohansourab/Galaxy_analyzer)
-
-<br />
-
-**Anime Recommendation Engine** — Content-based recommendation system for anime titles.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-&nbsp; 🔗 [Anime_recommendation](https://github.com/sohansourab/Anime_reccomendation)
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Galaxy Analyzer** | CNN-based morphology shape classification from deep space imagery. | TensorFlow, OpenCV | [View →](https://github.com/sohansourab/Galaxy_analyzer) |
+| **Anime Rec Engine** | Content-based collaborative filtering system for media recommendations. | Pandas, Scikit-learn | [View →](https://github.com/sohansourab/Anime_reccomendation) |
 
 </details>
 
 ---
 
-### 💼 Experience
+### 💼 Experience & Beyond
 
-**🧠 AI Developer Intern** &nbsp;·&nbsp; VISWAM.AI — Summer of AI 2025
-`Jun 2025 – Jul 2025` &nbsp;·&nbsp; *Swecha · IIIT Hyderabad · Meta · TASK · HYSEA*
+<details>
+<summary><b>🏢 Professional Experience</b></summary>
+<br />
 
-Fine-tuned AI models on locally procured datasets, evaluated against real-world accuracy benchmarks, deployed as production applications, and contributed to open-source community projects.
+| Role | Organization | Timeline | Core Focus |
+| :--- | :--- | :--- | :--- |
+| **AI Developer Intern** | VISWAM.AI (Summer of AI) | *Jun '25 – Jul '25* | Fine-tuned AI models, local dataset evaluations, open-source deployment. |
+| **Tech Coordinator Intern** | BizPlus4u Pvt. Ltd. | *May '25 – Aug '25* | Agile workflow management, bottleneck resolution, technical standard enforcement. |
 
-**⚙️ Technical Coordinator Intern** &nbsp;·&nbsp; BizPlus4u Pvt. Ltd.
-`May 2025 – Aug 2025`
+</details>
 
-Managed cross-functional technical workflows via Zoho Cliq & Sprint, drove sprint bottleneck resolution through structured agile documentation, and maintained quality standards across concurrent technical deliverables.
-
----
-
-### 🎓 Education
-
-**B.Tech — Computer Science & Engineering (AI & ML)**
-Gandhi Institute of Technology and Management (GITAM) &nbsp;·&nbsp; Hyderabad &nbsp;·&nbsp; 2023 – 2027
-
-*DSA · Machine Learning · Deep Learning · Computer Vision · DBMS*
-
----
-
-### 🌙 Beyond the Terminal
-
-- **🔭 Stargazing & exploring the cosmos** — fascinated by what lies beyond our atmosphere
-- **🏸 Badminton & swimming** — staying sharp on and off the court
-- **💬 Building out-of-the-box conversations** — the kind that lead somewhere unexpected
+<details>
+<summary><b>🌙 Off-Screen Pursuits</b></summary>
+<br />
+<ul>
+  <li>🔭 <b>Astrophysics Enthusiast:</b> Exploring cosmology and the universe beyond the terminal.</li>
+  <li>🏸 <b>Athlete:</b> Staying sharp through badminton and swimming.</li>
+  <li>💬 <b>Conversationalist:</b> Building out-of-the-box discussions that lead to unexpected ideas.</li>
+</ul>
+</details>
 
 ---
-
