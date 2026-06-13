@@ -8,28 +8,30 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Backend+Engineer+%7C+AI+%2F+ML+Builder;Building+what+happens+behind+the+scenes;FastAPI+%C2%B7+LangChain+%C2%B7+Computer+Vision;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Backend+Engineer+%7C+AI+%2F+ML+Builder;Currently+building+RAG+pipelines;FastAPI+%C2%B7+LangChain+%C2%B7+Computer+Vision;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### 👨‍💻 Quick Bio
+### 👨‍💻 About Me
 
-> ⚙️ **Backend Engineer & AI/ML Builder** focused on modular architectures, local-first LLMs, and production-ready APIs. Currently pursuing my B.Tech in CS (AI & ML) at **GITAM University, Hyderabad** (Class of 2027). *I care about what happens under the hood — the services, pipelines, and data flows.*
+> ⚙️ **Backend Engineer & AI/ML Builder** focused on modular architectures, local-first LLMs, and production-ready APIs. Currently pursuing my B.Tech in CS (AI & ML) at **GITAM University, Hyderabad** (Class of 2027). I'm actively building **RAG pipelines**, contributing to the **open-source community**, and working across multiple AI/ML projects. *I care about what happens under the hood — the services, pipelines, and data flows.*
 
 ---
 
-### 🔧 Interactive Tech Stack
+### 🔧 Tech Stack
 
 <details>
 <summary><b>💻 Backend & Languages</b></summary>
 <br />
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&height=28" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white&height=28" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white&height=28" />
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white&height=28" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=.net&logoColor=white" />
 </p>
 </details>
 
@@ -37,25 +39,32 @@
 <summary><b>🧠 AI, ML & GenAI</b></summary>
 <br />
 <p align="left">
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&height=28" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&height=28" />
-  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&height=28" />
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white&height=28" />
-  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white&height=28" />
-  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white&height=28" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white" />
 </p>
 </details>
 
 <details>
-<summary><b>🛠️ Data, Tools & OS</b></summary>
+<summary><b>🛠️ Data, Frontend & Tools</b></summary>
 <br />
 <p align="left">
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&height=28" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white&height=28" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white&height=28" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black&height=28" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&height=28" />
-  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white&height=28" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vue.js-35495e?style=flat&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-121011?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab&logoColor=white" />
 </p>
 </details>
 
@@ -109,7 +118,7 @@
 
 ---
 
-### 💼 Experience & Beyond
+### 💼 Experience
 
 <details>
 <summary><b>🏢 Professional Experience</b></summary>
@@ -122,14 +131,29 @@
 
 </details>
 
-<details>
-<summary><b>🌙 Off-Screen Pursuits</b></summary>
-<br />
-<ul>
-  <li>🔭 <b>Astrophysics Enthusiast:</b> Exploring cosmology and the universe beyond the terminal.</li>
-  <li>🏸 <b>Athlete:</b> Staying sharp through badminton and swimming.</li>
-  <li>💬 <b>Conversationalist:</b> Building out-of-the-box discussions that lead to unexpected ideas.</li>
-</ul>
-</details>
+---
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=sohansourab&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sohansourab&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sohansourab&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+
+### ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🌙 Beyond the Code
+
+- 🔭 **Astrophysics & Aerospace:** Passionate about cosmology, space exploration, and the dream of aerospace engineering.
+- 🌌 **Stargazer:** Regularly observing the night sky — the universe is the best debugging break.
+- 🏸 **Athlete:** Staying sharp through badminton and swimming.
+- 💬 **Conversationalist:** Building out-of-the-box discussions that lead to unexpected ideas.
+
+---
+
+[![](https://komarev.com/ghpvc/?username=sohansourab&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
