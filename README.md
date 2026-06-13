@@ -6,7 +6,7 @@
 <a href="mailto:sohan.doc2705@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://www.reddit.com/user/paramountwala/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 
-<br /><br />
+<br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Backend+Engineer+%7C+AI+%2F+ML+Builder;Currently+building+RAG+pipelines;FastAPI+%C2%B7+LangChain+%C2%B7+Computer+Vision;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
 
@@ -118,7 +118,7 @@
 
 ---
 
-### 💼 Experience & Beyond
+### 💼 Experience
 
 <details>
 <summary><b>🏢 Professional Experience</b></summary>
@@ -136,25 +136,33 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=sohansourab&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sohansourab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sohansourab&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img height="150" src="https://github-readme-stats.shion.dev/api?username=sohansourab&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=sohansourab&theme=dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sohansourab&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+</div>
 
 ---
 
 ### ✍️ Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
 ---
 
 ### 🌙 Beyond the Code
 
-- 🔭 **Astrophysics & Aerospace:** Passionate about cosmology, space exploration, and the dream of aerospace engineering.
-- 🌌 **Stargazer:** Regularly observing the night sky — the universe is the best debugging break.
-- 🏸 **Athlete:** Staying sharp through badminton and swimming.
-- 💬 **Conversationalist:** Building out-of-the-box discussions that lead to unexpected ideas.
+| | |
+|---|---|
+| 🔭 **Astrophysics & Aerospace** — Cosmology, space exploration & aerospace engineering | 🌌 **Stargazer** — The night sky is the best debugging break |
+| 🏸 **Athlete** — Badminton & swimming | 💬 **Conversationalist** — Building out-of-the-box discussions |
 
 ---
 
+<div align="center">
+
 [![](https://komarev.com/ghpvc/?username=sohansourab&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+
+</div>
