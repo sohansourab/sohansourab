@@ -118,7 +118,7 @@
 
 ---
 
-### 💼 Experience
+### 💼 Experience & Beyond
 
 <details>
 <summary><b>🏢 Professional Experience</b></summary>
@@ -126,6 +126,7 @@
 
 | Role | Organization | Timeline | Core Focus |
 | :--- | :--- | :--- | :--- |
+| **OSS Contributor & AI Intern** | Swecha (viswam.ai) | *Jun '26 - Present* | Transcribing audio/video streams via distributed `corpus-cli`, optimizing local ASR workflows, structuring custom Indic prompt files, and building collaborative Streamlit data engines. |
 | **AI Developer Intern** | VISWAM.AI (Summer of AI) | *Jun '25 – Jul '25* | Fine-tuned AI models, local dataset evaluations, open-source deployment. |
 | **Tech Coordinator Intern** | BizPlus4u Pvt. Ltd. | *May '25 – Aug '25* | Agile workflow management, bottleneck resolution, technical standard enforcement. |
 
