@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-> ⚙️ **Backend Engineer & AI/ML Builder** focused on modular architectures, local-first LLMs, and production-ready APIs. Currently pursuing my B.Tech in CS (AI & ML) at **GITAM University, Hyderabad** (Class of 2027). I'm actively building **RAG pipelines**, contributing to the **open-source community**, and working across multiple AI/ML projects. *I care about what happens under the hood — the services, pipelines, and data flows.*
+> ⚙️ **Aspiring Backend Engineer & AI enthusiast** focused on modular architectures, local-first LLMs, and production-ready APIs. Currently pursuing my B.Tech in CS (AI & ML) at **GITAM University, Hyderabad** (Class of 2027). I'm actively building **RAG pipelines**, contributing to the **open-source community**, and working across multiple AI/ML projects. *I care about what happens under the hood — the services, pipelines, and data flows.*
 
 ---
 
