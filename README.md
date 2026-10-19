@@ -6,7 +6,6 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Backend+Engineer+%7C+AI+%2F+ML+Builder;Currently+building+RAG+pipelines;FastAPI+%C2%B7+LangChain+%C2%B7+Computer+Vision;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
 
 </div>
 
