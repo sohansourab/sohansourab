@@ -1,13 +1,24 @@
 <div align="center">
-<h2>Sohan Sourab Koppala</h2>
 
-<a href="https://linkedin.com/in/sohansourab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:sohan.doc2705@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <h2>Sohan Sourab Koppala</h2>
 
-<br />
+  <a href="https://linkedin.com/in/sohansourab">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:sohan.doc2705@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 
+  <br><br>
+
+  <p>
+    📖 Currently reading<br>
+    <em>On War</em> by Carl von Clausewitz
+  </p>
 
 </div>
+
 
 ---
 
